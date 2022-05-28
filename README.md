@@ -1,1 +1,1 @@
-# com.lale.webshop
+# Project Webshop voor Lale
