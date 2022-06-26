@@ -1,3 +1,6 @@
-public class CollectiveClass implements Serializable{
-    
+import java.io.Serializable;
+
+public class CollectiveClass implements Serializable {
+
+
 }
